@@ -12,7 +12,7 @@
 
 <h2>Evaluation Metrics</h2>
 
-<p>The model's performance has been evaluated using the following metrics:</p>
+<p>The model's performance has been evaluated using the following metrics: </p>
 
   <ul>
         <li><strong>Accuracy</strong></li>
